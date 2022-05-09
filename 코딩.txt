@@ -1,0 +1,2 @@
+opengl
+gl_draw_Vertax(gl_triangel, gl_circle);
